@@ -1,7 +1,5 @@
-# urban-octo-doodle
-
 ## Assumptions
-With the presented test set we are validation the basic functionality of the product page including presence of the basic information and the ability of the customer to place the product into their cart.
+With the presented test set we are validating the basic functionality of the product page including the presence of the basic information and the ability of the customer to place the product into their cart.
 
 ## Prerequisits
 
